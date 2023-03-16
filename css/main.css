@@ -352,7 +352,7 @@ button {
   height: 30px;
   left: calc(50% - 10px);
   top: calc(50% - 15px);
-  border: 3px solid #2a80b9;
+  
   opacity: 0.5;
   z-index: -1;
 }
@@ -845,7 +845,7 @@ button {
   margin-bottom: 30px;
 }
 .services-list .offset-top {
-  transform: translateY(30px);
+  transform: translateY(100px);
 }
 .services-list .service-item {
   text-align: left;
