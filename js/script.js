@@ -13,6 +13,7 @@
     zoom: {
       enabled: true
     },
+    // duration: 300
     gallery: {
       enabled: true,
       navigateByImgClick: false,
