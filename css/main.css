@@ -2085,6 +2085,15 @@ blockquote span {
   color: #2a80b9;
   text-decoration: underline;
 }
+@media screen and (min-width: 768px) {
+  .widget-content.text-center {
+    text-align: center;
+  }
+  .widget-content.text-center .widget-links {
+    display: inline-block;
+  }
+}
+
 .subscribe-form {
   position: relative;
 }
