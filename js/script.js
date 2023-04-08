@@ -19,9 +19,7 @@
       navigateByImgClick: false,
       tCounter: ''
     },
-    disableOn: function() {
-      return $(window).width() > 640;
-    }
+    disableOn: false
   });
 
 }).call(this);
